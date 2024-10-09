@@ -21,6 +21,7 @@ body{
     border-radius: 16px;
     padding: 16px;
     background-color: var(--White);
+    align-items: center;
 }
 .img-container{
     margin: 0px auto;
